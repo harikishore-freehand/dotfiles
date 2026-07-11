@@ -1,5 +1,6 @@
 [user]
-	name = Your Name
+	name = Hari Kishore
+	email = hari.kishore@freehand.ai
 
 [credential]
 	helper = cache --timeout=3600
