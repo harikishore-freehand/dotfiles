@@ -1,0 +1,6 @@
+
+# Claude Code — never commit credentials or transcripts
+.claude/.credentials.json
+.claude/projects/
+.claude/history.jsonl
+.claude.json
