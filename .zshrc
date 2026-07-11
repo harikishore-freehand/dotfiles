@@ -17,7 +17,6 @@ antigen bundle command-not-found
 antigen bundle ansible
 antigen bundle docker
 antigen bundle docker-compose
-antigen bundle tmux
 antigen bundle vagrant
 antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-completions
